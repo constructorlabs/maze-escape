@@ -12,6 +12,7 @@ Fork and clone the repo to get started.
 Write an algorithm that will guide the escapee to the exit.
 
 - The escapee can move one square at a time
+- Escapee cannot make diagonal moves
 - Escapee cannot move through a wall
 - You should produce an animation displaying the progress of the escapee at each move
 - You are welcome to display progress using any method. `document.write` should work well to start with
